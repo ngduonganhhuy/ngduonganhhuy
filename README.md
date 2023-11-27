@@ -26,12 +26,6 @@
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-
-# 💻 My Daily.dev
-<p align="center">
-  <a href="https://app.daily.dev/bin01012000"><img src="https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu" width="400" alt="Holmes's Dev Card"/></a>
-</p>
-
 # 🙈 Portfolio
 
 <p align="center">
@@ -42,3 +36,9 @@
 # 📲 My Apps
 ## Chat Glopr
 ![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) ![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
+
+# 💻 My Daily.dev
+<p align="center">
+  <a href="https://app.daily.dev/bin01012000"><img src="https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu" width="400" alt="Holmes's Dev Card"/></a>
+</p>
