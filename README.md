@@ -21,3 +21,9 @@
 <p align="center">
   <a href="https://app.daily.dev/bin01012000"><img src="https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu" width="400" alt="Holmes's Dev Card"/></a>
 </p>
+
+## 🙈 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-nguyenduonganhhuy.vercel.app/" target="_blank"><img src="[https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu](https://scontent.fsgn8-4.fna.fbcdn.net/v/t31.18172-8/23735980_967640086722767_3775265885611917919_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7a1959&_nc_ohc=0crUOklIZ8UAX_mZeS6&_nc_ht=scontent.fsgn8-4.fna&oh=00_AfA1oLHMk7w7LqfPrVg2jzccDgnB5TSHG1xXUmDPxkeqQA&oe=658BFD42)https://scontent.fsgn8-4.fna.fbcdn.net/v/t31.18172-8/23735980_967640086722767_3775265885611917919_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7a1959&_nc_ohc=0crUOklIZ8UAX_mZeS6&_nc_ht=scontent.fsgn8-4.fna&oh=00_AfA1oLHMk7w7LqfPrVg2jzccDgnB5TSHG1xXUmDPxkeqQA&oe=658BFD42" width="400" alt="Holmes's Portfolio"/></a>
+</p>
