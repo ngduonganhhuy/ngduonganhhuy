@@ -30,7 +30,7 @@
 # 🙈 Portfolio
 
 <p align="center">
-  <a href="https://portfolio-nguyenduonganhhuy.vercel.app/" target="_blank"><h4> Holmes </h4></a>
+  <a href="https://portfolio-nguyenduonganhhuy.vercel.app/" target="_blank"><h4> Holmes's Portfolio </h4></a>
   <a href="https://portfolio-nguyenduonganhhuy.vercel.app/" target="_blank"><img src="https://github.com/ngduonganhhuy/ngduonganhhuy/blob/main/avatar.jpg" width="400" alt="Holmes's Portfolio"/></a>
 </p>
 
@@ -47,5 +47,10 @@
 
 # 💻 My Daily.dev
 <p>
-  <a href="https://app.daily.dev/bin01012000"><img src="https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu" width="300" alt="Holmes's Dev Card"/></a>
+  <a href="https://app.daily.dev/bin01012000" target="_blank"><img src="https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu" width="300" alt="Holmes's Dev Card"/></a>
+</p>
+
+# ✍ My Dev.to
+<p>
+  <a href="https://dev.to/ngduonganhhuy" target="_blank"><img src="https://wiki.matbao.net/wp-content/uploads/2019/09/blog-la-gi.jpg" height="400" alt="Holmes's Dev To"/></a>
 </p>
