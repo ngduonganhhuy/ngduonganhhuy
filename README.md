@@ -34,17 +34,6 @@
   <a href="https://portfolio-nguyenduonganhhuy.vercel.app/" target="_blank"><img src="https://github.com/ngduonganhhuy/ngduonganhhuy/blob/main/avatar.jpg" width="400" alt="Holmes's Portfolio"/></a>
 </p>
 
-## 📲 My Apps
-## Chat Glopr
-![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) ![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-## Trung Tâm Dược Phẩm
-<a href="https://apps.apple.com/vn/app/trung-t%C3%A2m-d%C6%B0%E1%BB%A3c-ph%E1%BA%A9m/id6451052186?l=vi" target="_blank">![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)</a>
-<a href="https://play.google.com/store/apps/details?id=com.connectpharm.connectpharm&pcampaignid=web_share" target="_blank">![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
-## SalonBookly
-<a href="https://apps.apple.com/vn/app/salonbookly/id1630656771" target="_blank">![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)</a>
-<a href="https://play.google.com/store/apps/details?id=com.bizbookly.customer&pcampaignid=web_share" target="_blank">![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
-
-
 ## 💻 My Daily.dev
 <p>
   <a href="https://app.daily.dev/bin01012000" target="_blank"><img src="https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu" width="300" alt="Holmes's Dev Card"/></a>
