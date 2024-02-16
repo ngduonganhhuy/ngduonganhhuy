@@ -4,7 +4,6 @@
 <p>👨🏻‍💻  A Little Bit About Me and My Interests</p>
 
 
-
 ## 💼 Technical Skills
 <a href="https://dart.dev/" target="_blank">![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)</a>
 <a href="https://vi.wikipedia.org/wiki/HTML" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
@@ -27,11 +26,10 @@
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-## 🙈 Portfolio
+## 🌐 Portfolio
 
-<p align="center">
-  <a href="https://portfolio-nguyenduonganhhuy.vercel.app/" target="_blank"><h4> Holmes's Portfolio </h4></a>
-  <a href="https://portfolio-nguyenduonganhhuy.vercel.app/" target="_blank"><img src="https://github.com/ngduonganhhuy/ngduonganhhuy/blob/main/avatar.jpg" width="400" alt="Holmes's Portfolio"/></a>
+<p>
+  Holmes's Portfolio 🌐: <a href="https://holmes.id.vn/" target="_blank" style="color:white;text-decoration: none"> My Portfolio </a>
 </p>
 
 ## 💻 My Daily.dev
