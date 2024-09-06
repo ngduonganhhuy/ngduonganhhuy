@@ -34,7 +34,7 @@
 
 ## 💻 My Daily.dev
 <p>
-  <a href="https://app.daily.dev/bin01012000" target="_blank"><img src="https://api.daily.dev/devcards/96f1f10b4a604a5081a0fe2d529f4cb6.png?r=wsu" width="300" alt="Holmes's Dev Card"/></a>
+  <a href="https://app.daily.dev/ngduonganhhuy"><img src="https://api.daily.dev/devcards/v2/ifEY7c1s1UFmZsVEXOT2O.png?r=a33&type=default" width="356" alt="Huy Nguyễn Dương Anh's Dev Card"/></a>
 </p>
 
 ## ✍ My Dev.to
