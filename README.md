@@ -49,10 +49,10 @@ Currently working at **FPT Software**, where I work on Long Chau pharmacy app â€
 
 | Project | Description | Platform |
 |---------|-------------|----------|
-| [Lend Me](https://app.lendme.vn) | Pawn shop management app | Flutter |
-| [Danet](https://apps.apple.com/vn/app/danet/id1099577795) | Content platform | Flutter |
-| [DShorts](https://apps.apple.com/vn/app/dshorts-drama-shorts/id6503342186) | Short drama streaming | Flutter |
-| [SalonBookly](https://apps.apple.com/vn/app/salonbookly-staff/id1630657030) | Salon booking platform | Flutter |
+| [Lend Me](https://app.lendme.vn) | Pawn shop management app | Web, Android, IOS |
+| [Danet](https://apps.apple.com/vn/app/danet/id1099577795) | Content platform | Web, Android, IOS |
+| [DShorts](https://apps.apple.com/vn/app/dshorts-drama-shorts/id6503342186) | Short drama streaming | Android, IOS |
+| [SalonBookly](https://apps.apple.com/vn/app/salonbookly-staff/id1630657030) | Salon booking platform | Android, IOS |
 
 ---
 
